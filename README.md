@@ -11,7 +11,7 @@
 
 ---
 
-## 📸 Preview
+## Preview
 
 واجهة تسجيل حديثة تحتوي على:
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
